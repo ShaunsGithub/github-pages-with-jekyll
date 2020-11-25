@@ -1,11 +1,11 @@
-title: Your awesome title
+theme: minima
+title: Why Fallout 76 is actually pretty decent
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+  Fallout 76 was sick when I first got it back in 2018 on Xbox and when i got it in 2019 on PC. Good times... Also energy weapons need buffing because they are garbage if this is
+change this and i will return to fo76.
+  
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
